@@ -1,4 +1,5 @@
 
+# Churn Prediction and Adversarial Validation method
 
 I tried to determine the best model by setting up a pipeline here, and the best model was the RandomForestClassifier model. However, it is true that overfitting has occurred, and I used the Adversarial Validation method to understand what factors may have caused this. I think the reason for overfitting is the small amount of data. Let me give a brief summary about the Adversarial Validation method.
 
